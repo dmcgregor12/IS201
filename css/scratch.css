@@ -1,0 +1,23 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: dodgerblue;
+    background-color: aliceblue;
+}
+
+.common {
+    text-decoration: none;
+}
+
+.visited {
+    color: darkorchid;
+}
+
+img{
+    border: 5px solid black;
+    display: block;
+    text-align: center;
+}
